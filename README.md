@@ -1,1 +1,1 @@
-# Food-delivery-costs-analysis-
+# Food-delivery-costs-analysis-small data analysis project on food delivery costs analysis where we have initially done some cleaning of fields so that they can support analysis, after our analysis on costs feilds we came to know company is overall in loss and one of the major reason should be discounts and offers field.we have plotted some graphs related to it
